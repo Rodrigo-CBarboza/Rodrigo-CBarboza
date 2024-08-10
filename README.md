@@ -2,8 +2,8 @@
 
 ![Rodrigo-CBarboza GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-CBarboza&show_icons=true&theme=dark)
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigo-da-conceição-barboza-541928175)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robarboza021/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](HTTPS://www.linkedin.com/in/rodrigo-da-conceição-barboza-541928175)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/robarboza021)
 
 
 
